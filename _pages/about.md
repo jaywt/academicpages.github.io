@@ -24,7 +24,3 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/).
