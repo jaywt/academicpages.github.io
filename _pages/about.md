@@ -3,7 +3,7 @@ permalink: /
 title: "A Geoscientist and A Big Data Lover"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -29,9 +29,11 @@ Big data
 Contact Me
 ======
 **Email**
+
 tzw138 (at) psu.edu
 
 **Addres**
+
 217F EES Building
 Earth and Environmental Systems Insitute
 Pennsylvania State University
