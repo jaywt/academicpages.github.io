@@ -7,34 +7,20 @@ author_profile: true
 
 You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?authuser=2&user=19-LjXsAAAAJ) webpage.
 
-# **PUBLICATIONS**
+## Peer Reviewed Publications
 
-# **Peer Reviewed Publications**
-
-12-. **Wen, T.** , Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
-
-11. Woda, J., **Wen, T.** , Oakley, D., Yoxtheimer, D., Engelder, T., Castro, M.C. and Brantley, S.L., Detecting and Explaining Why Some Aquifers Become Degraded Near Hydraulically Fractured Shale Gas Wells. _To be submitted_.
-
+13-. **Wen, T.** , Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
+12. Woda, J., **Wen, T.** , Oakley, D., Yoxtheimer, D., Engelder, T., Castro, M.C. and Brantley, S.L., Detecting and Explaining Why Some Aquifers Become Degraded Near Hydraulically Fractured Shale Gas Wells. _To be submitted_.
 11. Zheng, G., Liu, M., **Wen, T.** , Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
-
 10. **Wen, T.** , Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., &quot;Big data&quot; reveal rare contamination incidents but otherwise improving groundwater quality in a heavily developed Marcellus Shale region. _Under review_.
-
 9. Niu, X., **Wen, T.** , Li, Z. and Brantley, S.L., 2018. One Step toward Developing Knowledge from Numbers in Regional Analysis of Water Quality. _Environmental Science &amp; Technology_.
-
 8. **Wen, T.** , Pinti, D.L., Castro, M.C., López-Hernández, A., Hall, C.M., Shouakar-Stash, O. and Sandoval-Medina, F., 2018. A Noble Gas and 87Sr/86Sr Study in Fluids of the Los Azufres Geothermal Field, Mexico – Assessing Impact of Exploitation and Constraining Heat Sources. _Chemical Geology_.
-
 7. Brantley, S.L., Vidic, R.D., Brasier, K., Yoxtheimer, D., Pollak, J., Wilderman, C. and **Wen, T.** , 2018. Engaging over data on fracking and water quality. _Science_, _359_(6374), pp.395-397.
-
 6. **Wen, T.** , Castro, M.C., Nicot, J.P., Hall, C.M., Pinti, D.L., Mickler, P., Darvari, R. and Larson, T., 2017. Characterizing the noble gas isotopic composition of the Barnett Shale and Strawn group and constraining the source of stray gas in the Trinity Aquifer, north-central Texas. _Environmental Science &amp; Technology_, _51_(11), pp.6533-6541.
-
 5. **Wen, T.** , Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., 2016. Methane Sources and Migration Mechanisms in Shallow Groundwaters in Parker and Hood Counties, Texas - A Heavy Noble Gas Analysis. _Environmental science &amp; technology_, _50_(21), pp.12012-12021.
-
 4. **Wen, T.** , Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., 2015. Assessing compositional variability and migration of natural gas in the Antrim Shale in the Michigan Basin using noble gas geochemistry. _Chemical Geology_, _417_, pp.356-370.
-
 3. **Wen, T.** , Castro, M.C., Hall, C.M., Pinti, D.L. and Lohmann, K.C., 2016. Constraining groundwater flow in the Glacial Drift and Saginaw aquifers in the Michigan Basin through helium concentrations and isotopic ratios. _Geofluids_, _16_(1), pp.3-25.
-
 2. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14.
-
 1. Nie, Y., Liu, X., **Wen, T.** , Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ15N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100.
 
 # **Non-Peer Reviewed Publications**
