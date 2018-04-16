@@ -24,7 +24,7 @@ Data mining
 Big data  
 Shale gas  
 Stray gas  
-Subsurface fluid migration
+Subsurface fluid migration  
 Geothermal  
 Sustainability  
 
