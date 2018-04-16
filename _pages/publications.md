@@ -25,7 +25,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. **Wen, T.** , Castro, M.C., Nicot, J.P., Hall, C.M., Pinti, D.L., Mickler, P., Darvari, R. and Larson, T., 2017. Characterizing the noble gas isotopic composition of the Barnett Shale and Strawn group and constraining the source of stray gas in the Trinity Aquifer, north-central Texas. _Environmental Science &amp; Technology_, _51_(11), pp.6533-6541.
 
-1. **Wen, T.** , Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., 2016. Methane Sources and Migration Mechanisms in Shallow Groundwaters in Parker and Hood Counties, Texas - A Heavy Noble Gas Analysis. _Environmental science &amp; technology_, _50_(21), pp.12012-12021.
+1. **Wen, T.** , Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., 2016. Methane Sources and Migration Mechanisms in Shallow Groundwaters in Parker and Hood Counties, Texas - A Heavy Noble Gas Analysis. _Environmental Science &amp; Technology_, _50_(21), pp.12012-12021.
 
 1. **Wen, T.** , Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., 2015. Assessing compositional variability and migration of natural gas in the Antrim Shale in the Michigan Basin using noble gas geochemistry. _Chemical Geology_, _417_, pp.356-370.
 
@@ -33,7 +33,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14.
 
-1. Nie, Y., Liu, X., **Wen, T.** , Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ15N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100.
+1. Nie, Y., Liu, X., **Wen, T.** , Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ15N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [download pdf](/files/Nie_2014_Chemical_Geology)
 
 ## Non-Peer Reviewed Publications
 
