@@ -1,26 +1,39 @@
 ---
 permalink: /
-title: "Tao Wen"
-excerpt: "About me"
+title: "A Geoscientist and A Big Data Lover"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub.
+I am a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, water geochemistry, environmental sciences, and data mining. In my current research, I have combined field geology, state-of-the-art geochemcal analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
 
-A data-driven personal website
-======
-Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Create content & metadata
+Research Questions
 ------
 The [map of places you've given a talk](https://academicpages.github.io/talkmap.html)
 
-**Markdown generator**
+Research Keywords
+------
+Shale gas
+Marcellus Shale
+Barnett Shale
+Antrim Shale
+Stray gas
+Geothermal
+Noble gas geochemistry
+Data mining
+Big data
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) 
+Contact Me
+======
+**Email**
+tzw138 (at) psu.edu
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**Addres**
+217F EES Building
+Earth and Environmental Systems Insitute
+Pennsylvania State University
+University Park, PA 16802-6813
+USA
