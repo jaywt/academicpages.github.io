@@ -28,14 +28,12 @@ Big data
 
 Contact Me
 ------
-**Email**
-
+**Email**  
 tzw138 (at) psu.edu
 
-**Addres**
-
-217F EES Building
-Earth and Environmental Systems Insitute
-Pennsylvania State University
-University Park, PA 16802-6813
+**Addres**  
+217F EES Building  
+Earth and Environmental Systems Insitute  
+Pennsylvania State University  
+University Park, PA 16802-6813  
 USA
