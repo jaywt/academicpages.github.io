@@ -16,15 +16,15 @@ The [map of places you've given a talk](https://academicpages.github.io/talkmap.
 
 Research Keywords
 ------
-Shale gas
-Marcellus Shale
-Barnett Shale
-Antrim Shale
-Stray gas
-Geothermal
-Noble gas geochemistry
-Data mining
-Big data
+Shale gas  
+Marcellus Shale  
+Barnett Shale  
+Antrim Shale  
+Stray gas  
+Geothermal  
+Noble gas geochemistry  
+Data mining  
+Big data  
 
 Contact Me
 ------
