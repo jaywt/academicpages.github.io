@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -33,7 +32,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14.
 
-1. Nie, Y., Liu, X., **Wen, T.** , Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ15N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [[download pdf]](/files/Nie_2014_Chemical_Geology)
+1. Nie, Y., Liu, X., **Wen, T.** , Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ15N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [[download pdf]](/files/Nie_2014_Chemical_Geology.pdf)
 
 ## Non-Peer Reviewed Publications
 
