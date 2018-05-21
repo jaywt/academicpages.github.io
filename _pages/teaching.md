@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Workshop Instructor, Pennsylvania State University (May 2018)
+## Workshop Instructor in [Shale Network Workshop](http://www.shalenetwork.org/content/2018-shale-network-workshop), Pennsylvania State University (May 2018)
 * Computer module demonstration and hands-on exercise: Created and prepared learning material; taught water chemistry about Marcellus-related spills for over 40 participants.
 * Field trip to mock spill event: Organized and led field trip to mock spill; demonstrated sample collection from surface water.
 
