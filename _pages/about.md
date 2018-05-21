@@ -32,7 +32,7 @@ Sustainability
 **Email**  
 tzw138 (at) psu.edu
 
-**Addres**  
+**Address**  
 217F EES Building  
 Earth and Environmental Systems Insitute  
 Pennsylvania State University  

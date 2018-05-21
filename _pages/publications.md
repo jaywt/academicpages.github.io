@@ -48,6 +48,10 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. **Wen, T.** , Niu, X., Pollak, J., Brazil, L., Li, Z., and Brantley, S.L., Using Shale Network Database to Assess the Water Quality Data in Marcellus Shale Area. UCOWR-NIWR Annual Water Resources Conference, Pittsburgh, PA, 06/2018. [**Invited Talk**]
 
+1. **Wen, T.**, A Multi-disciplinary and Multi-stakeholder Framework to Evaluate Environmental Impacts of Shale Gas Production. Energy Days Conference, University Park, PA, 05/2018. [Oral]
+
+1. **Wen, T.**, Zheng, G., Liu, M., Niu, X., Gonzales, M., Woda, J., Li, Z., and Brantley, S.L., Applying Machine Learning to Detect Anomalous Methane in Groundwater. PA Groundwater Symposium, State College, PA, 05/2018. [Oral]
+
 1. **Wen, T.** , Niu, X., Gonzales, M., Li, Z., and Brantley, S.L., Applying Data Mining Techniques to Chemical Analyses of Pre-drill Groundwater Samples within the Marcellus Formation Shale Play in Bradford County, Pennsylvania. AGU Fall Meeting, New Orleans, LA, 12/2017. [Poster]
 
 1. Pinti, D.L., **Wen, T.** , Castro, M.C., López-Hernández, A., Hall, C.M., Shouakar-Stash, O. and Sandoval-Medina, Using noble gases and 87Sr/86Sr to constrain heat sources and fluid evolution at the Los Azufres Geothermal Field, Mexico. AGU Fall Meeting, New Orleans, LA, 12/2017. [Poster]
