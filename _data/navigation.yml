@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-#  - title: "Curriculum Vitae"
-#    url: /cv/
+  - title: "Curriculum Vitae"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
