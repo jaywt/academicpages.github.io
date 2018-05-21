@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Geoscientist and A Big Data Lover"
+title: "A Geoscientist and A Big Data Fan"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, water geochemistry, environmental sciences, and data mining. In my current research, I have combined field geology, state-of-the-art geochemcal analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
+I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemcal analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
 
 ## Research Questions
 
 * What are the sources of hydrocarbon in conventional and unconventional reservoirs?
-* How does the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate acorss formations?
-* What are the impact of energy recovery activities on surrounding environments (both above ground and subsurface)?
+* How does the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and acorss formations?
+* What might be the environmental impact of energy recovery activities (both above ground and subsurface)?
 * What is the best practice in managing and utilizing big geoscience datasets?
 
 ## Research Keywords
 
 Noble gas geochemistry  
 Data mining  
-Big data  
 Shale gas  
 Stray gas  
 Subsurface fluid migration  
