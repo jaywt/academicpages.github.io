@@ -8,12 +8,4 @@ date: 2018-05-17
 location: "State College, USA"
 ---
 
-The workshop facilitates a conversation about water quality and other environmental issues in the Marcellus Shale natural gas play between academics and representatives from government agencies, gas and environmental industries, citizen science groups and more. The workshop include hands-on computer modoule and field trip.
-
-Computer Module
-======
-Created and prepared learning material; taught water chemistry about Marcellus-related spills for over 40 participants.
-
-Field Trip
-======
-Assisted in organizing field trip to mock brine spill and to demonstrate sample collection from surface water.
+I created and prepared learning material for the computer lab and I taught over 40 participants the impact on water chemistry from Marcellus-related spills. I also assisted in organizing field trip to mock brine spill and to demonstrate sample collection from surface water.
