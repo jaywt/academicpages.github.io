@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate/graduate course"
 permalink: /teaching/2010s-teaching_um
 venue: "University of Michigan, Department of Earth and Environmental Sciences"
-date: 2017-04-01
-location: "University Park, USA"
+date: 2011-2016
+location: "Ann Arbor, USA"
 ---
 
 EARTH 100s – multiple introduction classes of earth sciences.
