@@ -14,7 +14,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.** , Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
-1. **Wen, T.** , Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., &quot;Big data&quot; reveal rare contamination incidents but otherwise improving groundwater quality in a heavily developed Marcellus Shale region. _Under review_.
+1. **Wen, T.** , Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., Big groundwater datasets reveal possible rare contamination amid otherwise improved water quality for some analytes in a region of Marcellus Shale development. _Environmental Science &amp; Technology_. [[download pdf]](/files/Wen_2018_EST.pdf).
 
 1. Niu, X., **Wen, T.** , Li, Z. and Brantley, S.L., 2018. One Step toward Developing Knowledge from Numbers in Regional Analysis of Water Quality. _Environmental Science &amp; Technology_. [[download pdf]](/files/Niu_2018_EST.pdf)
 
