@@ -28,7 +28,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., 2015. Assessing compositional variability and migration of natural gas in the Antrim Shale in the Michigan Basin using noble gas geochemistry. _Chemical Geology_, _417_, pp.356-370. [[download pdf]](/files/Wen_2015_Chemical_Geology.pdf)
 
-1. **Wen, T.**, Castro, M.C., Hall, C.M., Pinti, D.L. and Lohmann, K.C., 2016. Constraining groundwater flow in the Glacial Drift and Saginaw aquifers in the Michigan Basin through helium concentrations and isotopic ratios. _Geofluids_, _16_(1), pp.3-25. [[download pdf]](/files/Wen_2015_Geofluids.pdf)
+1. **Wen, T.**, Castro, M.C., Hall, C.M., Pinti, D.L. and Lohmann, K.C., 2015. Constraining groundwater flow in the Glacial Drift and Saginaw aquifers in the Michigan Basin through helium concentrations and isotopic ratios. _Geofluids_, _16_(1), pp.3-25. [[download pdf]](/files/Wen_2015_Geofluids.pdf)
 
 1. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14. [[download pdf]](/files/Boucher_2015_Journal_of_Hydrology.pdf)
 
