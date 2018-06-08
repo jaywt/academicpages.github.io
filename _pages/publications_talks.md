@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Publications and Talks"
+permalink: /publications_talks/
 author_profile: true
 ---
 
@@ -45,6 +45,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 1. **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
 
 ## Conference Presentations
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 1. **Wen, T.**, Niu, X., Pollak, J., Brazil, L., Li, Z., and Brantley, S.L., Using Shale Network Database to Assess the Water Quality Data in Marcellus Shale Area. UCOWR-NIWR Annual Water Resources Conference, Pittsburgh, PA, 06/2018. [**Invited Talk**]
 
