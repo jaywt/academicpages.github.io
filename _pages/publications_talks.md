@@ -14,25 +14,25 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
-1. **Wen, T.**, Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., 2018. Big groundwater data sets reveal possible rare contamination amid otherwise improved water quality for some analytes in a region of Marcellus Shale development. _Environmental Science &amp; Technology_. [[download pdf]](/files/Wen_2018_EST.pdf).
+1. **Wen, T.**, Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., 2018. Big groundwater data sets reveal possible rare contamination amid otherwise improved water quality for some analytes in a region of Marcellus Shale development. _Environmental Science &amp; Technology_. [download pdf](/files/Wen_2018_EST.pdf).
 
-1. Niu, X., **Wen, T.**, Li, Z. and Brantley, S.L., 2018. One Step toward Developing Knowledge from Numbers in Regional Analysis of Water Quality. _Environmental Science &amp; Technology_. [[download pdf]](/files/Niu_2018_EST.pdf)
+1. Niu, X., **Wen, T.**, Li, Z. and Brantley, S.L., 2018. One Step toward Developing Knowledge from Numbers in Regional Analysis of Water Quality. _Environmental Science &amp; Technology_. [download pdf](/files/Niu_2018_EST.pdf)
 
-1. **Wen, T.**, Pinti, D.L., Castro, M.C., López-Hernández, A., Hall, C.M., Shouakar-Stash, O. and Sandoval-Medina, F., 2018. A Noble Gas and <sup>87</sup>Sr/<sup>86</sup>Sr Study in Fluids of the Los Azufres Geothermal Field, Mexico – Assessing Impact of Exploitation and Constraining Heat Sources. _Chemical Geology_. [[download pdf]](/files/Wen_2018_Chemical_Geology.pdf)
+1. **Wen, T.**, Pinti, D.L., Castro, M.C., López-Hernández, A., Hall, C.M., Shouakar-Stash, O. and Sandoval-Medina, F., 2018. A Noble Gas and <sup>87</sup>Sr/<sup>86</sup>Sr Study in Fluids of the Los Azufres Geothermal Field, Mexico – Assessing Impact of Exploitation and Constraining Heat Sources. _Chemical Geology_. [download pdf](/files/Wen_2018_Chemical_Geology.pdf)
 
-1. Brantley, S.L., Vidic, R.D., Brasier, K., Yoxtheimer, D., Pollak, J., Wilderman, C. and **Wen, T.**, 2018. Engaging over data on fracking and water quality. _Science_, _359_(6374), pp.395-397. [[download pdf]](/files/Brantley_2018_Science.pdf)
+1. Brantley, S.L., Vidic, R.D., Brasier, K., Yoxtheimer, D., Pollak, J., Wilderman, C. and **Wen, T.**, 2018. Engaging over data on fracking and water quality. _Science_, _359_(6374), pp.395-397. [download pdf](/files/Brantley_2018_Science.pdf)
 
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Pinti, D.L., Mickler, P., Darvari, R. and Larson, T., 2017. Characterizing the noble gas isotopic composition of the Barnett Shale and Strawn group and constraining the source of stray gas in the Trinity Aquifer, north-central Texas. _Environmental Science &amp; Technology_, _51_(11), pp.6533-6541. [[download pdf]](/files/Wen_2017_EST.pdf)
+1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Pinti, D.L., Mickler, P., Darvari, R. and Larson, T., 2017. Characterizing the noble gas isotopic composition of the Barnett Shale and Strawn group and constraining the source of stray gas in the Trinity Aquifer, north-central Texas. _Environmental Science &amp; Technology_, _51_(11), pp.6533-6541. [download pdf](/files/Wen_2017_EST.pdf)
 
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., 2016. Methane Sources and Migration Mechanisms in Shallow Groundwaters in Parker and Hood Counties, Texas - A Heavy Noble Gas Analysis. _Environmental Science &amp; Technology_, _50_(21), pp.12012-12021. [[download pdf]](/files/Wen_2016_EST.pdf)
+1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., 2016. Methane Sources and Migration Mechanisms in Shallow Groundwaters in Parker and Hood Counties, Texas - A Heavy Noble Gas Analysis. _Environmental Science &amp; Technology_, _50_(21), pp.12012-12021. [download pdf](/files/Wen_2016_EST.pdf)
 
-1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., 2015. Assessing compositional variability and migration of natural gas in the Antrim Shale in the Michigan Basin using noble gas geochemistry. _Chemical Geology_, _417_, pp.356-370. [[download pdf]](/files/Wen_2015_Chemical_Geology.pdf)
+1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., 2015. Assessing compositional variability and migration of natural gas in the Antrim Shale in the Michigan Basin using noble gas geochemistry. _Chemical Geology_, _417_, pp.356-370. [download pdf](/files/Wen_2015_Chemical_Geology.pdf)
 
-1. **Wen, T.**, Castro, M.C., Hall, C.M., Pinti, D.L. and Lohmann, K.C., 2015. Constraining groundwater flow in the Glacial Drift and Saginaw aquifers in the Michigan Basin through helium concentrations and isotopic ratios. _Geofluids_, _16_(1), pp.3-25. [[download pdf]](/files/Wen_2015_Geofluids.pdf)
+1. **Wen, T.**, Castro, M.C., Hall, C.M., Pinti, D.L. and Lohmann, K.C., 2015. Constraining groundwater flow in the Glacial Drift and Saginaw aquifers in the Michigan Basin through helium concentrations and isotopic ratios. _Geofluids_, _16_(1), pp.3-25. [download pdf](/files/Wen_2015_Geofluids.pdf)
 
-1. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14. [[download pdf]](/files/Boucher_2015_Journal_of_Hydrology.pdf)
+1. Boucher, C., Pinti, D.L., Roy, M., Castro, M.C., Cloutier, V., Blanchette, D., Larocque, M., Hall, C.M., **Wen, T.** and Sano, Y., 2015. Groundwater age investigation of eskers in the Amos region, Quebec, Canada. _Journal of Hydrology_, _524_, pp.1-14. [download pdf](/files/Boucher_2015_Journal_of_Hydrology.pdf)
 
-1. Nie, Y., Liu, X., **Wen, T.**, Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ<sup>15</sup>N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [[download pdf]](/files/Nie_2014_Chemical_Geology.pdf)
+1. Nie, Y., Liu, X., **Wen, T.**, Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ<sup>15</sup>N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [download pdf](/files/Nie_2014_Chemical_Geology.pdf)
 
 ## Non-Peer Reviewed Publications
 
