@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemcal analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
+I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
 
 ## Research Questions
 
 * What are the sources of hydrocarbon in conventional and unconventional reservoirs?
-* How does the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and acorss formations?
+* How does the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and across formations?
 * What might be the environmental impact of energy recovery activities (both above ground and subsurface)?
 * What is the best practice in managing and utilizing big geoscience datasets?
 
@@ -34,7 +34,7 @@ tzw138 (at) psu.edu
 
 **Address**  
 217F EES Building  
-Earth and Environmental Systems Insitute  
+Earth and Environmental Systems Institute  
 Pennsylvania State University  
 University Park, PA 16802-6813  
 USA
