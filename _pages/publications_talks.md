@@ -36,7 +36,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Non-Peer Reviewed Publications
 
-1. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan).
+1. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
 
 1. Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
 
