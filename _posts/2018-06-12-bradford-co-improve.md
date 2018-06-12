@@ -1,5 +1,5 @@
 ---
-title: 'Data driven dialogue: Scientists bring groups together on water quality concerns'
+title: 'Bradford County water quality improves; impacts rare near shale gas wells'
 date: 2018-06-12
 permalink: /posts/2018/06/bradford-co-improve/
 ---
