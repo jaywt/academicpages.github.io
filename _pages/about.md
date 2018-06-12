@@ -24,7 +24,7 @@ Data mining
 Shale gas  
 Stray gas  
 Subsurface fluid migration  
-Geothermal  
+Geothermal energy  
 Sustainability  
 
 ## Contact Me
