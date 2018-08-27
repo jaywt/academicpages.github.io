@@ -14,6 +14,10 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
+1. **Wen, T.**, Agarwal, A., Xue, L., Chen, A., Herman, A., Li, Z. and Brantley, S.L., Slight Degradation of Groundwater Quality in the Region of Longstanding Oil and Gas Development in the Marcellus Shale Area. _Submitted_.
+
+1. Larson, T.E., Nicot, J.P., Mickler, P., Castro, M.C., Darvari, R., **Wen, T.** and Hall, C.M., 2018. Monitoring Stray Natural Gas in Groundwater with Dissolved Nitrogen. An Example from Parker County, Texas. _Water Resources Research_. [[download pdf]](/files/Larson_2018_WRR.pdf){:target="_blank"}
+
 1. **Wen, T.**, Niu, X., Gonzales, M., Zheng, G., Li, Z. and Brantley, S.L., 2018. Big groundwater data sets reveal possible rare contamination amid otherwise improved water quality for some analytes in a region of Marcellus Shale development. _Environmental Science &amp; Technology_. [[download pdf]](/files/Wen_2018_EST.pdf){:target="_blank"}
 
 1. Niu, X., **Wen, T.**, Li, Z. and Brantley, S.L., 2018. One Step toward Developing Knowledge from Numbers in Regional Analysis of Water Quality. _Environmental Science &amp; Technology_. [[download pdf]](/files/Niu_2018_EST.pdf){:target="_blank"}
