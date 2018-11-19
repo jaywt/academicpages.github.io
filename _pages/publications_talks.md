@@ -10,11 +10,11 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. **Wen, T.**, Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
 
-1. Woda, J., **Wen, T.**, Oakley, D., Yoxtheimer, D., Engelder, T., Castro, M.C. and Brantley, S.L., Detecting and Explaining Why Aquifers Occasionally Become Degraded Near Hydraulically Fractured Shale Gas Wells. _Submitted_.
-
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
-1. **Wen, T.**, Agarwal, A., Xue, L., Chen, A., Herman, A., Li, Z. and Brantley, S.L., Slight Degradation of Groundwater Quality in the Region of Longstanding Oil and Gas Development in the Marcellus Shale Area. _Submitted_.
+1. **Wen, T.**, Agarwal, A., Xue, L., Chen, A., Herman, A., Li, Z. and Brantley, S.L., Slight Degradation of Groundwater Quality in the Region of Longstanding Oil and Gas Development in the Marcellus Shale Area. _In revision_.
+
+1. Woda, J., **Wen, T.**, Oakley, D., Yoxtheimer, D., Engelder, T., Castro, M.C. and Brantley, S.L., 2018. Detecting and Explaining Why Aquifers Occasionally Become Degraded Near Hydraulically Fractured Shale Gas Wells. _Proceedings of the National Academy of Sciences_. [[download pdf]](/files/Woda_2018_PNAS.pdf){:target="_blank"}
 
 1. Larson, T.E., Nicot, J.P., Mickler, P., Castro, M.C., Darvari, R., **Wen, T.** and Hall, C.M., 2018. Monitoring Stray Natural Gas in Groundwater with Dissolved Nitrogen. An Example from Parker County, Texas. _Water Resources Research_. [[download pdf]](/files/Larson_2018_WRR.pdf){:target="_blank"}
 
