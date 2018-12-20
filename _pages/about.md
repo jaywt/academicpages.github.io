@@ -13,7 +13,7 @@ I am currently a postdoctoral scholar at the Earth and Environmental Systems Ins
 ## Research Questions
 
 * What are the sources of hydrocarbon in conventional and unconventional reservoirs?
-* How does the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and across formations?
+* How do the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and across formations?
 * What might be the environmental impact of energy recovery activities (both above ground and subsurface)?
 * What is the best practice in managing and utilizing big geoscience datasets?
 
