@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Geoscientist and A Big Data Fan"
+title: "Hydrogeologist | Geochemist | Data Scientist"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
