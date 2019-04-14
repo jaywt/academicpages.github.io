@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hydrogeologist | Geochemist | Data Scientist"
+title: "Hydrogeologist / Geochemist / Data Scientist"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
