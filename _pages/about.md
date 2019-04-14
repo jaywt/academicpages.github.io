@@ -21,8 +21,8 @@ I am currently a postdoctoral scholar at the Earth and Environmental Systems Ins
 
 Water sustainability  
 Data mining  
-Subsurface fluid migration  
-Shale gas  
+Urbanization
+Oil and gas  
 Geothermal energy  
 Noble gas geochemistry  
 
