@@ -26,7 +26,6 @@ Oil and gas
 Geothermal energy  
 Noble gas geochemistry  
 
-
 ## Contact Me
 
 **Email**  
