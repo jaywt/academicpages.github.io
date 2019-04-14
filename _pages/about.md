@@ -8,24 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools to study energy resources (e.g., shale gas and geothermal) across the North America.
+I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools in my research.
 
-## Research Questions
+## Research Interest
 
-* What are the sources of hydrocarbon in conventional and unconventional reservoirs?
-* How do the subsurface fluids (e.g., natural gas, oil, and groundwater) migrate within and across formations?
-* What might be the environmental impact of energy recovery activities (both above ground and subsurface)?
-* What is the best practice in managing and utilizing big geoscience datasets?
+* Water cycle within coupled human (e.g., energy extraction and urbanization) and natural systems at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches
+* Co-evolution of geosphere and biosphere
+* Best practice in managing and utilizing big geoscience datasets
+* Open science and open/FAIR data
 
 ## Research Keywords
 
-Noble gas geochemistry  
+Water sustainability  
 Data mining  
-Shale gas  
-Stray gas  
 Subsurface fluid migration  
+Shale gas  
 Geothermal energy  
-Sustainability  
+Noble gas geochemistry  
+
 
 ## Contact Me
 
