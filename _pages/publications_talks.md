@@ -56,18 +56,28 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 {: reversed="reversed"}
 1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Saint Francis University, Loretto, PA, 03/2019. [**Invited Talk**]
+
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Niu, X., Gonzales, M., Hall, C., Nicot, J.-P., Castro., M.C., Li, Z., and Brantley, S.L., Using Big Data and Small Data (Noble Gases) to Assess the Impact of Shale Gas Drilling on Water Quality. National Groundwater Association Workshop: Groundwater and Oil and Gas Development, San Antonio, TX, 03/2019. [Oral]
+
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Li, Z., and Brantley, S.L., Detecting anomalous methane in groundwater in shale gas production areas using big data. AGU Fall Meeting, Washington, D.C., 12/2018. [Poster]
+
 1. Brantley, S.L., **Wen, T.**, Li, Z., Liu, M., Zheng, G., Herman, A., Gonzales, M., Woda, J., and Niu, X., Using Big Data (and Little Data) to Understand the Effects of Shale Gas Development on Water Quality. AGU Fall Meeting, Washington, D.C., 12/2018. [**Invited Talk**]
+
 1. Woda, J., **Wen, T.**, Lemon, J., Keeports, C., Zelt, F.B., and Brantley, S.L., Using citizen science and stream methane to locate and understand hydrocarbon-related contaminant sources in Pennsylvania. AGU Fall Meeting, Washington, D.C., 12/2018. [Oral]
+
 1. **Wen, T.**, Zheng, G., Niu, X., Liu, M., Li, Z., and Brantley, S.L., Using Geochemistry Data to Identify Groundwater Quality Issues in Shale Gas Production Area. Health Effects Institute Energy Research Program Workshop, Austin, TX, 09/2018. [**Invited Talk**]
+
 1. **Wen, T.**, Liu, M., Zheng, G., Brantley, S.L., and Li, Z., Using Machine Learning to Detect Anomalous Methane in Groundwater within Shale Gas Production Areas. Goldschmidt, Boston, MA, 08/2018. [Poster]
+
 1. Brantley, S.L., **Wen, T.**, Niu, X., Zheng, G., Gonzales, M., and Li, Z., Using Big Groundwater Data to Understand Regional Water Chemistry. Goldschmidt, Boston, MA, 08/2018. [Poster]
+
 1. Woda, J., **Wen, T.**, and Brantley, S.L., Distinguishing Recent Methane Migration into Groundwater from Natural Methane Sources in the Marcellus Gas Play. Goldschmidt, Boston, MA, 08/2018. [Oral]
 
 1. **Wen, T.**, Niu, X., Pollak, J., Brazil, L., Li, Z., and Brantley, S.L., Using Shale Network Database to Assess the Water Quality Data in Marcellus Shale Area. UCOWR-NIWR Annual Water Resources Conference, Pittsburgh, PA, 06/2018. [**Invited Talk**]
 
 1. **Wen, T.**, A Multi-disciplinary and Multi-stakeholder Framework to Evaluate Environmental Impacts of Shale Gas Production. Energy Days Conference, University Park, PA, 05/2018. [Oral]
+
+1. **Wen, T.**, Liu, M., Zheng, G., Niu, X., Gonzales, M., Woda, J., Li, Z., and Brantley, S.L., Applying machine learning in water quality data: implication for controlling factors and occurrence time of elevated methane in groundwater. Shale Network Workshop, University Park, PA, 05/2018. [Poster]
 
 1. **Wen, T.**, Zheng, G., Liu, M., Niu, X., Gonzales, M., Woda, J., Li, Z., and Brantley, S.L., Applying Machine Learning to Detect Anomalous Methane in Groundwater. PA Groundwater Symposium, State College, PA, 05/2018. [Oral]
 
