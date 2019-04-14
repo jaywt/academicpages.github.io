@@ -12,6 +12,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
+1. Liu, R., Heinemann, N., Liu, J., Zhu, W., Wilkinson, M., Xie, Y., Wang, Z., **Wen, T.**, Hao, F., Haszeldine, S.R., 2019. CO2 Sequestration by Mineral Trapping in Natural Analogues in the Yinggehai Basin, South China Sea. _Marine and Petroleum Geology_. [[download pdf]](/files/Liu_2019_MPG.pdf){:target="_blank"}
+
 1. **Wen, T.**, Agarwal, A., Xue, L., Chen, A., Herman, A., Li, Z. and Brantley, S.L., 2019. Assessing Changes in Groundwater Chemistry in Landscapes with More than 100 Years of Oil and Gas Development. _Environmental Science: Processes & Impacts_. [[download pdf]](/files/Wen_2019_ESPI.pdf){:target="_blank"}
 
 1. Woda, J., **Wen, T.**, Oakley, D., Yoxtheimer, D., Engelder, T., Castro, M.C. and Brantley, S.L., 2018. Detecting and Explaining Why Aquifers Occasionally Become Degraded Near Hydraulically Fractured Shale Gas Wells. _Proceedings of the National Academy of Sciences_. [[download pdf]](/files/Woda_2018_PNAS.pdf){:target="_blank"}
@@ -40,15 +42,25 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Non-Peer Reviewed Publications
 
-1. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
+4. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
 
-1. Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
+3. Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
 
-1. **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
+2. **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
 
 1. **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
 
 ## Conference Presentations
+
+1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Saint Francis University, Loretto, PA, 03/2019. [**Invited Talk**]
+1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Niu, X., Gonzales, M., Hall, C., Nicot, J.-P., Castro., M.C., Li, Z., and Brantley, S.L., Using Big Data and Small Data (Noble Gases) to Assess the Impact of Shale Gas Drilling on Water Quality. National Groundwater Association Workshop: Groundwater and Oil and Gas Development, San Antonio, TX, 03/2019. [Oral]
+1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Li, Z., and Brantley, S.L., Detecting anomalous methane in groundwater in shale gas production areas using big data. AGU Fall Meeting, Washington, D.C., 12/2018. [Poster]
+1. Brantley, S.L., **Wen, T.**, Li, Z., Liu, M., Zheng, G., Herman, A., Gonzales, M., Woda, J., and Niu, X., Using Big Data (and Little Data) to Understand the Effects of Shale Gas Development on Water Quality. AGU Fall Meeting, Washington, D.C., 12/2018. [**Invited Talk**]
+1. Woda, J., **Wen, T.**, Lemon, J., Keeports, C., Zelt, F.B., and Brantley, S.L., Using citizen science and stream methane to locate and understand hydrocarbon-related contaminant sources in Pennsylvania. AGU Fall Meeting, Washington, D.C., 12/2018. [Oral]
+1. **Wen, T.**, Zheng, G., Niu, X., Liu, M., Li, Z., and Brantley, S.L., Using Geochemistry Data to Identify Groundwater Quality Issues in Shale Gas Production Area. Health Effects Institute Energy Research Program Workshop, Austin, TX, 09/2018. [**Invited Talk**]
+1. **Wen, T.**, Liu, M., Zheng, G., Brantley, S.L., and Li, Z., Using Machine Learning to Detect Anomalous Methane in Groundwater within Shale Gas Production Areas. Goldschmidt, Boston, MA, 08/2018. [Poster]
+1. Brantley, S.L., **Wen, T.**, Niu, X., Zheng, G., Gonzales, M., and Li, Z., Using Big Groundwater Data to Understand Regional Water Chemistry. Goldschmidt, Boston, MA, 08/2018. [Poster]
+1. Woda, J., **Wen, T.**, and Brantley, S.L., Distinguishing Recent Methane Migration into Groundwater from Natural Methane Sources in the Marcellus Gas Play. Goldschmidt, Boston, MA, 08/2018. [Oral]
 
 1. **Wen, T.**, Niu, X., Pollak, J., Brazil, L., Li, Z., and Brantley, S.L., Using Shale Network Database to Assess the Water Quality Data in Marcellus Shale Area. UCOWR-NIWR Annual Water Resources Conference, Pittsburgh, PA, 06/2018. [**Invited Talk**]
 
