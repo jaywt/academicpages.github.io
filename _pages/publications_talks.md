@@ -8,6 +8,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Peer Reviewed Publications
 
+{: reversed="reversed"}
 1. **Wen, T.**, Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
@@ -43,16 +44,17 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ## Non-Peer Reviewed Publications
 
 {: reversed="reversed"}
-4. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
+1. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
 
-3. Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
+1. Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
 
-2. **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
+1. **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
 
 1. **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
 
 ## Conference Presentations
 
+{: reversed="reversed"}
 1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Saint Francis University, Loretto, PA, 03/2019. [**Invited Talk**]
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Niu, X., Gonzales, M., Hall, C., Nicot, J.-P., Castro., M.C., Li, Z., and Brantley, S.L., Using Big Data and Small Data (Noble Gases) to Assess the Impact of Shale Gas Drilling on Water Quality. National Groundwater Association Workshop: Groundwater and Oil and Gas Development, San Antonio, TX, 03/2019. [Oral]
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Li, Z., and Brantley, S.L., Detecting anomalous methane in groundwater in shale gas production areas using big data. AGU Fall Meeting, Washington, D.C., 12/2018. [Poster]
