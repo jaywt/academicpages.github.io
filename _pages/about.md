@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools in my research.
+I am currently a postdoctoral scholar at the Earth and Environmental Systems Institute of the Pennsylvania State University working with [Susan Brantley](https://brantley.psu.edu){:target="_blank"} at [Syracuse University](https://www.syracuse.edu){:target="_blank"}. <span style="color:red">In August 2020 I will be starting as a tenure-track assistant professor in [the Department of Earth Sciences](http://earthsciences.syr.edu){:target="_blank"} at [Syracuse University](https://www.syracuse.edu){:target="_blank"}</span>. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. In my research, I have blended field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools in my research.
 
 ## Research Interest
 
-* Water cycle within coupled human (e.g., energy extraction and urbanization) and natural systems at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches
+* Water cycle within the coupled human (e.g., energy extraction and urbanization) and natural systems at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches
 * Co-evolution of geosphere and biosphere
 * Best practice in managing and utilizing big geoscience datasets
 * Open science and open/FAIR data
