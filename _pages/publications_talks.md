@@ -55,6 +55,10 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ## Conference Presentations
 
 {: reversed="reversed"}
+1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Kansa Geological Survey of the University of Kansas, Lawrence, KS, 04/2019. [**Invited Talk**]
+
+1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Syracuse University, Syracuse, NY, 04/2019. [**Invited Talk**]
+
 1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Saint Francis University, Loretto, PA, 03/2019. [**Invited Talk**]
 
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Niu, X., Gonzales, M., Hall, C., Nicot, J.-P., Castro., M.C., Li, Z., and Brantley, S.L., Using Big Data and Small Data (Noble Gases) to Assess the Impact of Shale Gas Drilling on Water Quality. National Groundwater Association Workshop: Groundwater and Oil and Gas Development, San Antonio, TX, 03/2019. [Oral]
