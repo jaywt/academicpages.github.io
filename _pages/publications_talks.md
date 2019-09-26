@@ -6,12 +6,14 @@ author_profile: true
 
 You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?authuser=2&user=19-LjXsAAAAJ){:target="_blank"} webpage.
 
-## Peer Reviewed Publications
+## Journal Articles
 
 {: reversed="reversed"}
 1. **Wen, T.**, Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
+
+1. Agarwal, A., **Wen, T.**, Xue, L., Chen, A., Herman, A., and Brantley, S.L., Geonet: An Automated Geochemical Network Analysis with Application to Detecting Stream Water Contamination. _In preparation_.
 
 1. **Wen, T.**, Woda, J., Marcon, V., Niu, X., Li, Z. and Brantley, S.L., 2019. Exploring How to Use Groundwater Chemistry to Identify Migration of Methane near Shale Gas Wells in the Appalachian Basin. _Environmental Science & Technology_. [[download pdf]](/files/Wen_2019_EST.pdf){:target="_blank"}
 
@@ -43,7 +45,14 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Nie, Y., Liu, X., **Wen, T.**, Sun, L. and Emslie, S.D., 2014. Environmental implication of nitrogen isotopic composition in ornithogenic sediments from the Ross Sea region, East Antarctica: Δ<sup>15</sup>N as a new proxy for avian influence. _Chemical Geology_, _363_, pp.91-100. [[download pdf]](/files/Nie_2014_Chemical_Geology.pdf){:target="_blank"}
 
-## Non-Peer Reviewed Publications
+## Chapters in Books
+
+{: reversed="reversed"}
+1. **Wen, T.**, Data Sharing. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 5pp. In Press. _Under review_.
+
+1. **Wen, T.**, Data Aggregation. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 5pp. In Press. _Under review_.
+
+## Reports and Theses
 
 {: reversed="reversed"}
 1. **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan). [[download pdf]](/files/Wen_2017_Doctoral_Dissertation.pdf){:target="_blank"}
@@ -53,6 +62,11 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 1. **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
 
 1. **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
+
+## Preprints
+
+{: reversed="reversed"}
+1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., 2019. Targeted Source Detection for Environmental Data. arXiv preprint arXiv:1908.11056. [[download pdf]](/files/Zheng_2019_arXiv.pdf){:target="_blank"}
 
 ## Conference Presentations
 
