@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ## Opportunities
-In August 2020 I will be starting as a tenure-track Assistant Professor in [the Department of Earth Sciences](http://earthsciences.syr.edu){:target="_blank"} at [Syracuse University](https://www.syracuse.edu){:target="_blank"}**. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining. I am currently recruiting MS and PhD students to join my research group at Syracuse University, located in Syracuse, New York. My group uses noble gas, hydrogeochemistry, and data science tools to study water cycle in the coupled natural and human systems over a broad range of temporal and spatial scales. Field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools will be blended in our work. Students in my group will have the opportunities to incorporate one or more of these elements in their projects.
+In August 2020, I will be starting as a tenure-track Assistant Professor in [the Department of Earth Sciences](http://earthsciences.syr.edu){:target="_blank"} at [Syracuse University](https://www.syracuse.edu){:target="_blank"}. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining.
+
+I am currently recruiting MS and PhD students to join my research group at Syracuse University, located in Syracuse, New York. My group uses noble gas, hydrogeochemistry, and data science tools to study water cycle in the coupled natural and human systems over a broad range of temporal and spatial scales. Field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools will be blended in our work. Students in my group will have the opportunities to incorporate one or more of these elements in their projects.
 
 Interested students can check this **[departmental website](http://earthsciences.syr.edu/academics/g-program.html){:target="_blank"}** for the admission requirements of Syracuse University and Department of Earth Sciences.
 
