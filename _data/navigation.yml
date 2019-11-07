@@ -9,9 +9,6 @@ main:
   - title: "Lab Group"
     url: /lab-group/
 
-  - title: "Curriculum Vitae"
-    url: /cv/
-
   - title: "Vacancies"
     url: /vacancies/
 
