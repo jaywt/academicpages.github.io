@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## GEOSC/GEOG 497 – Data Mining in Environmental Sciences, Penn State University	(Fall 2019)
-*	Applying both conventional and emerging data analytics tools to studying problems in the environmental sciences through mini-lectures and hands-on projects
+*	Applying both conventional and emerging data analytics tools to address real-world environmental science problems through mini-lectures and hands-on projects
 
 ## Co-teaching GEOSC 560 – Kinetics, Pennsylvania State University	(Spring 2019)
 *	Using data-driven models to assess the impact of natural and anthropogenic features on weathering rate on a watershed scale
