@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Dr. Tao Wen"
   avatar           : "portrait.jpg"
-  bio              : "Assistant Professor"
-  employer         : "Syracuse University"
+  bio              : "Assistant Professor at Syracuse University"
+  employer         :
   location         : "Syracuse, NY"
   googlescholar    : "https://scholar.google.com/citations?authuser=2&user=19-LjXsAAAAJ"
   email            : "twen08@syr.edu"
