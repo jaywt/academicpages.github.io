@@ -2,22 +2,21 @@
 main:
   - title: "About Me"
     url: /
-    
-  - title: "News"
-    url: /news/
-    
+
+  - title: "Science Blogs"
+    url: /science-blogs/
+
 #  - title: "Research"
-#    url: /research/    
+#    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Curriculum Vitae"
     url: /cv/
 
   - title: "Publications/Talks"
     url: /publications_talks/
-    
+
   - title: "Portfolio"
     url: /portfolio/
-        
