@@ -1,6 +1,6 @@
 ---
 title: "Opportunities"
-permalink: /opportunities
+permalink: /opportunities/
 author_profile: true
 ---
 
