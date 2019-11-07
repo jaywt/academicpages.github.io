@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Wen"
+title                    : "Hydrogeochemistry And eNvironmental Data Sciences Reseasrch Group"
 title_separator          : "-"
 name                     : &name "Tao Wen"
 description              : &description "Postdoctoral Scholar at Pennsylvania State University"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Dr. Tao Wen"
   avatar           : "portrait.jpg"
-  bio              : "Postdoctoral Scholar at Pennsylvania State University, Hydrogeologist | Geochemist | Data Scientist"
-  location         : "University Park, PA"
+  bio              : "Assistant Professor at Syracuse University"
+  location         : "Syracuse, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?authuser=2&user=19-LjXsAAAAJ"
-  email            : "tzw138@psu.edu"
+  email            : "twen08@syr.edu"
   researchgate     : "https://www.researchgate.net/profile/Tao_Wen12"
   uri              :
   bitbucket        :
