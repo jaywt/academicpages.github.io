@@ -1,7 +1,7 @@
 ---
 title: "Geospatial Analysis Tool to Assess the Impact of Shale Gas Drilling on Groundwater Quality"
 excerpt: "We have applied this in-house developed tool to assess the impact of shale gas drilling on groundwater quality in the Bradford County, PA<br/><img src='/images/portfolio/sliding_window.png'>"
-collection: portfolio
+collection: research
 ---
 
 Related study can be found on [my publication webpage](http://jaywen.com/publications_talks/).
