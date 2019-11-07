@@ -25,6 +25,7 @@ I am currently recruiting MS and PhD students to join my research group at Syrac
 Water sustainability  
 Water quality  
 Data mining  
+Environmental data sciences  
 Urbanization  
 Oil and gas  
 Geothermal energy  
