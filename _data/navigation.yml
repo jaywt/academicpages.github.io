@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "Home"
     url: /
 
-  - title: "Science Blogs"
-    url: /science-blogs/
+  - title: "Research"
+    url: /research/
 
-#  - title: "Research"
-#    url: /research/
-
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Lab Group"
+    url: /lab-group/
 
   - title: "Curriculum Vitae"
     url: /cv/
 
+  - title: "Vacancies"
+    url: /vacancies/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Science Blogs"
+    url: /science-blogs/

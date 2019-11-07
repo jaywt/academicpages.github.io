@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Hydrogeologist / Geochemist / Data Scientist"
-excerpt: "About Me"
+title: "Hydrogeochemistry And eNvironmental Data Sciences (HANDS) Research Group"
+excerpt: "Home"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 ## Opportunities
@@ -33,15 +33,3 @@ Urbanization
 Oil and gas  
 Geothermal energy  
 Noble gas geochemistry  
-
-## Contact Me
-
-**Email**  
-tzw138 (at) psu.edu
-
-**Address**  
-217F EES Building  
-Earth and Environmental Systems Institute  
-Pennsylvania State University  
-University Park, PA 16802-6813  
-USA
