@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Joining Syracuse University in August 2020
+
 In August 2020, I will be starting as a tenure-track Assistant Professor in [the Department of Earth Sciences](http://earthsciences.syr.edu){:target="_blank"} at [Syracuse University](https://www.syracuse.edu){:target="_blank"}. My research interests span a broad range of topics focusing mainly on hydrogeology, geochemistry, environmental sciences, and data mining.
 
 I am currently recruiting MS and PhD students to join my research group at Syracuse University, located in Syracuse, New York. Please check the [**Opportunities**](/opportunities){:target="_blank"} page.
