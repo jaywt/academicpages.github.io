@@ -70,73 +70,24 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 {: reversed="reversed"}
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., 2019. Targeted Source Detection for Environmental Data. arXiv preprint arXiv:1908.11056. [[download pdf]](/files/Zheng_2019_arXiv.pdf){:target="_blank"}
 
-## Conference Presentations
+## Open Access Datasets
 
 {: reversed="reversed"}
-1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Kansa Geological Survey of the University of Kansas, Lawrence, KS, 04/2019. [**Invited Talk**]
+1.  **Wen, T.**, Woda, J., Marcon, V., Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2019. Shale Network – Statewide Groundwater in Pennsylvania as of January 2019, Data Commons, Penn State University [https://doi.org/10.26208/8ag3-b743](ttps://doi.org/10.26208/8ag3-b743){:target="_blank"}.
 
-1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Syracuse University, Syracuse, NY, 04/2019. [**Invited Talk**]
+1.  **Wen, T.**, Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2018. Shale Network – Mercer County Groundwater as of August 2018, Data Commons, Penn State University. [https://doi.org/10.18113/D3967X](https://doi.org/10.18113/D3967X){:target="_blank"}.
 
-1. **Wen, T.**, Using Small Data and Big Data to Assess the Impact of Shale Gas Drilling on Water Quality. Saint Francis University, Loretto, PA, 03/2019. [**Invited Talk**]
+1.  **Wen, T.**, Woda, J., Gonzales, M., Herman, A., Brantley, S.L., 2018. Shale Network – Lycoming County Groundwater as of October 2018, Data Commons, Penn State University. [https://doi.org/10.18113/D35M2X](https://doi.org/10.18113/D35M2X){:target="_blank"}.
 
-1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Niu, X., Gonzales, M., Hall, C., Nicot, J.-P., Castro., M.C., Li, Z., and Brantley, S.L., Using Big Data and Small Data (Noble Gases) to Assess the Impact of Shale Gas Drilling on Water Quality. National Groundwater Association Workshop: Groundwater and Oil and Gas Development, San Antonio, TX, 03/2019. [Oral]
+1.  **Wen, T.**, Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2018. Shale Network – Bradford County Groundwater as of May 2018, Data Commons, Penn State University. [https://doi.org/10.26208/rj0h-qf52](https://doi.org/10.26208/rj0h-qf52){:target="_blank"}.
 
-1. **Wen, T.**, Liu, M., Woda, J., Zheng, G., Li, Z., and Brantley, S.L., Detecting anomalous methane in groundwater in shale gas production areas using big data. AGU Fall Meeting, Washington, D.C., 12/2018. [Poster]
+## Online Educational Modules for College Teaching Posted through Carleton College
 
-1. Brantley, S.L., **Wen, T.**, Li, Z., Liu, M., Zheng, G., Herman, A., Gonzales, M., Woda, J., and Niu, X., Using Big Data (and Little Data) to Understand the Effects of Shale Gas Development on Water Quality. AGU Fall Meeting, Washington, D.C., 12/2018. [**Invited Talk**]
+{: reversed="reversed"}
+1. **Wen, T.**, Brazil, L., Brantley, S. L., Pelepko, S. and Beattie, S., 2018. Bromide in the Allegheny River System. [https://serc.carleton.edu/hydromodules/steps/191853.html](https://serc.carleton.edu/hydromodules/steps/191853.html){:target="_blank"}
 
-1. Woda, J., **Wen, T.**, Lemon, J., Keeports, C., Zelt, F.B., and Brantley, S.L., Using citizen science and stream methane to locate and understand hydrocarbon-related contaminant sources in Pennsylvania. AGU Fall Meeting, Washington, D.C., 12/2018. [Oral]
+1. **Wen, T.**, Brazil, L., Brantley, S. L., Pelepko, S. and Beattie, S., 2018. Earthquakes in Pennsylvania. [https://serc.carleton.edu/hydromodules/steps/191859.html](https://serc.carleton.edu/hydromodules/steps/191859.html){:target="_blank"}
 
-1. **Wen, T.**, Zheng, G., Niu, X., Liu, M., Li, Z., and Brantley, S.L., Using Geochemistry Data to Identify Groundwater Quality Issues in Shale Gas Production Area. Health Effects Institute Energy Research Program Workshop, Austin, TX, 09/2018. [**Invited Talk**]
+1. **Wen, T.**, Brazil, L., Brantley, S. L., Pelepko, S. and Beattie, S., 2018. How Pennsylvania Disposes of Brines Safely. [https://serc.carleton.edu/hydromodules/steps/191889.html](https://serc.carleton.edu/hydromodules/steps/191889.html){:target="_blank"}
 
-1. **Wen, T.**, Liu, M., Zheng, G., Brantley, S.L., and Li, Z., Using Machine Learning to Detect Anomalous Methane in Groundwater within Shale Gas Production Areas. Goldschmidt, Boston, MA, 08/2018. [Poster]
-
-1. Brantley, S.L., **Wen, T.**, Niu, X., Zheng, G., Gonzales, M., and Li, Z., Using Big Groundwater Data to Understand Regional Water Chemistry. Goldschmidt, Boston, MA, 08/2018. [Poster]
-
-1. Woda, J., **Wen, T.**, and Brantley, S.L., Distinguishing Recent Methane Migration into Groundwater from Natural Methane Sources in the Marcellus Gas Play. Goldschmidt, Boston, MA, 08/2018. [Oral]
-
-1. **Wen, T.**, Niu, X., Pollak, J., Brazil, L., Li, Z., and Brantley, S.L., Using Shale Network Database to Assess the Water Quality Data in Marcellus Shale Area. UCOWR-NIWR Annual Water Resources Conference, Pittsburgh, PA, 06/2018. [**Invited Talk**]
-
-1. **Wen, T.**, A Multi-disciplinary and Multi-stakeholder Framework to Evaluate Environmental Impacts of Shale Gas Production. Energy Days Conference, University Park, PA, 05/2018. [Oral]
-
-1. **Wen, T.**, Liu, M., Zheng, G., Niu, X., Gonzales, M., Woda, J., Li, Z., and Brantley, S.L., Applying machine learning in water quality data: implication for controlling factors and occurrence time of elevated methane in groundwater. Shale Network Workshop, University Park, PA, 05/2018. [Poster]
-
-1. **Wen, T.**, Zheng, G., Liu, M., Niu, X., Gonzales, M., Woda, J., Li, Z., and Brantley, S.L., Applying Machine Learning to Detect Anomalous Methane in Groundwater. PA Groundwater Symposium, State College, PA, 05/2018. [Oral]
-
-1. **Wen, T.**, Niu, X., Gonzales, M., Li, Z., and Brantley, S.L., Applying Data Mining Techniques to Chemical Analyses of Pre-drill Groundwater Samples within the Marcellus Formation Shale Play in Bradford County, Pennsylvania. AGU Fall Meeting, New Orleans, LA, 12/2017. [Poster]
-
-1. Pinti, D.L., **Wen, T.**, Castro, M.C., López-Hernández, A., Hall, C.M., Shouakar-Stash, O. and Sandoval-Medina, Using noble gases and 87Sr/86Sr to constrain heat sources and fluid evolution at the Los Azufres Geothermal Field, Mexico. AGU Fall Meeting, New Orleans, LA, 12/2017. [Poster]
-
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Pinti, D.L., Mickler, P., Darvari, R. and Larson, T., Barnett Shale or Strawn Group: Identifying the Source of Stray Gas through Noble Gases in the Trinity Aquifer, North-Central Texas. AGU Fall Meeting, New Orleans, LA, 12/2017. [Oral]
-
-1. **Wen, T.**, Niu, X., Gonzales, M., Li, Z., and Brantley, S.L., Using Data Mining Techniques to Assess Water Quality within the Marcellus Shale Play. Geochemistry Forum, State College, PA, 12/2017. [Oral]
-
-1. Brantley, S.L., Gonzales, M., Guarnieri, M., Niu, X., **Wen, T.** and Li, Z., Investigating Chemical Analyses of Ground Waters Sampled by Shale-gas Industry Consultants Before Gas-well Drilling in Pennsylvania. Pennsylvania Groundwater Symposium, State College, PA, 05/2017. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., Methane Sources and Migration Mechanisms in the Shallow Trinity Aquifer in Parker and Hood Counties, Texas – a Noble Gas Analysis. Shale Network Workshop, University Park, PA, 05/2017. [Poster]
-
-1. **Wen, T.**, Pinti, D.L., Castro, M.C., Hall, C.M., Shouakar-Stash, O. and López-Hernández, A., Fluids in the Los Azufres Geothermal Field, Mexico traced by noble gas isotopes and 87Sr/86Sr. GAC-MAC Meeting, Kingston, Canada, 05/2017. [Poster]
-
-1. **Wen, T.**, Development of noble gas techniques to fingerprint shale gas and to trace hydrocarbons in groundwater. China University of Geosciences, Wuhan, China, 03/2017. [Invited, Oral]
-
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Mickler, P. and Darvari, R., Methane Sources and Migration Mechanisms in the Shallow Trinity Aquifer in Parker and Hood Counties, Texas – a Noble Gas Analysis. AGU Fall Meeting, San Francisco, CA, 12/2016. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Larson, T., Mickler, P. and Darvari, R., Methane Sources and Migration Mechanisms in the Shallow Trinity Aquifer in Parker and Hood Counties, Texas – a Noble Gas Analysis. AIPG Michigan Section, Ann Arbor, MI, 12/2016. [Poster]
-
-1. Castro, M.C., **Wen, T.**, Nicot, J.P., Hall, C.M., Mickler, P. and Darvari, R., Methane Sources in Shallow Groundwaters in Parker and Hood Counties, Texas – A Heavy Noble Gas Analysis. Goldschmidt, Yokohama, Japan, 06/2016. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Nicot, J.P., Hall, C.M., Mickler, P. and Darvari, R., Identifying the Sources of Methane in Shallow Groundwaters in South-central Texas through Noble Gas Signatures. AAPG ACE, Calgary, Canada, 06/2016. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M. and Lohmann, K.C., Assessing Compositional Variability and Migration of Natural Gas in Antrim Shale in the Michigan Basin Using Noble Gas Geochemistry. AGU Fall Meeting, San Francisco, CA, 12/2015. [Poster]
-
-1. Castro, M.C., **Wen, T.**, Nicot, J.P., Hall, C.M., Mickler, P. and Darvari, R., Identifying the Sources of Methane in Shallow Groundwaters in Parker and Hood Counties, Texas through Noble Gas Signatures. AGU Fall Meeting, San Francisco, CA, 12/2015. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Ellis, B.R. and Hall, C.M., Using Noble Gases to Assess the Compositional Variability and Sources of Natural Gas in the Antrim Shale, Michigan Basin, USA. AAPG Eastern Section Meeting, Indianapolis, IN, 09/2015. [Poster]
-
-1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M., Lohmann, K.C. and Bouvier, L., Assessing the Compositional Variability and Migration of Natural Gas in Antrim Shale in the Michigan Basin Using Noble Gas Geochemistry. AAPG ACE, Denver, CO, 06/2015. [Oral]
-
-1. **Wen, T.**, Castro, M.C., Ellis, B.R., Hall, C.M., Lohmann, K.C. and Bouvier, L., Noble Gas Signatures in Antrim Shale Gas in the Michigan Basin-Assessing Compositional Variability and Transport Processes. AGU Fall Meeting, San Francisco, CA, 12/2014. [Poster]
-
-1. **Wen, T.**, Castro, M.C. and Hall, C.M., Constraining Groundwater Flow in the Michigan Basin Through Helium Concentrations and Isotopic Ratios in the Saginaw Aquifer, Southern Michigan. AGU Fall Meeting, San Francisco, CA, 12/2012. [Poster]
-
-1. **Wen, T.**, Liu, X. and Sun, L., Variations of δ15N values in ornithogenic sediments on tropical Dongdao Island of South China Sea and their influencing factors. The 18th International Conference on Environmental Indicators, Hefei, China, 2010. [Poster]
+1. **Wen, T.**, Brazil, L., Brantley, S. L., Pelepko, S. and Beattie, S., 2018. Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania. [https://serc.carleton.edu/hydromodules/units/191769.html](https://serc.carleton.edu/hydromodules/units/191769.html){:target="_blank"}

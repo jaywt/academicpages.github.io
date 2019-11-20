@@ -37,11 +37,11 @@
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="ai ai-cv-square ai-fw"></i> CV</a></li>
       {% endif %}
-      {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square ai-fw"></i> ResearchGate</a></li>
-      {% endif %}
       {% if author.publons %}
         <li><a href="{{ author.publons }}"><i class="ai ai-publons-square ai-fw"></i> Publons</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square ai-fw"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
