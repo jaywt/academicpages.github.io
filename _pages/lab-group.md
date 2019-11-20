@@ -4,9 +4,6 @@ permalink: /lab-group/
 author_profile: true
 ---
 
-## PI
-This page is under construction...
-
 ## Graduate Students
 This page is under construction...
 
