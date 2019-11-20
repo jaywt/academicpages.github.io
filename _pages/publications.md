@@ -73,7 +73,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ## Open Access Datasets
 
 {: reversed="reversed"}
-1.  **Wen, T.**, Woda, J., Marcon, V., Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2019. Shale Network – Statewide Groundwater in Pennsylvania as of January 2019, Data Commons, Penn State University [https://doi.org/10.26208/8ag3-b743](ttps://doi.org/10.26208/8ag3-b743){:target="_blank"}.
+1.  **Wen, T.**, Woda, J., Marcon, V., Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2019. Shale Network – Statewide Groundwater in Pennsylvania as of January 2019, Data Commons, Penn State University. [https://doi.org/10.26208/8ag3-b743](https://doi.org/10.26208/8ag3-b743){:target="_blank"}.
 
 1.  **Wen, T.**, Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2018. Shale Network – Mercer County Groundwater as of August 2018, Data Commons, Penn State University. [https://doi.org/10.18113/D3967X](https://doi.org/10.18113/D3967X){:target="_blank"}.
 
