@@ -15,6 +15,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Agarwal, A., **Wen, T.**, Xue, L., Chen, A., Herman, A., and Brantley, S.L., Geonet: An Automated Geochemical Network Analysis with Application to Detecting Stream Water Contamination. _In preparation_.
 
+1. Shaughnessy, A., **Wen, T.**, Niu, X. and Brantley, S.L., 2019. Three Principles to Use in Streamlining Water Quality Research through Data Uniformity. _Environmental Science & Technology_. [[download pdf]](/files/Shaughnessy_2019_EST.pdf){:target="_blank"}
+
 1. **Wen, T.**, Woda, J., Marcon, V., Niu, X., Li, Z. and Brantley, S.L., 2019. Exploring How to Use Groundwater Chemistry to Identify Migration of Methane near Shale Gas Wells in the Appalachian Basin. _Environmental Science & Technology_. [[download pdf]](/files/Wen_2019_EST.pdf){:target="_blank"}
 
 1. Liu, R., Heinemann, N., Liu, J., Zhu, W., Wilkinson, M., Xie, Y., Wang, Z., **Wen, T.**, Hao, F., Haszeldine, S.R., 2019. CO2 Sequestration by Mineral Trapping in Natural Analogues in the Yinggehai Basin, South China Sea. _Marine and Petroleum Geology_. [[download pdf]](/files/Liu_2019_MPG.pdf){:target="_blank"}
