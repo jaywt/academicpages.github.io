@@ -13,7 +13,9 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
-1. Agarwal, A., **Wen, T.**, Xue, L., Chen, A., Herman, A., and Brantley, S.L., Geonet: An Automated Geochemical Network Analysis with Application to Detecting Stream Water Contamination. _In preparation_.
+1. Agarwal, A., **Wen, T.**, Xue, L., Chen, A., Herman, A. and Brantley, S.L., Geonet: An Automated Geochemical Network Analysis with Application to Detecting Stream Water Contamination. _In preparation_.
+
+1. Hammond, P.A., **Wen, T.**, Brantley, S.L. and Engelder, T., 2020. Gas well integrity and methane migration: evaluation of published evidence during shale-gas development in the USA. _Hydrogeology Journal_. [[download pdf]](/files/Hammond_2020_Hydrogeology.pdf){:target="_blank"}
 
 1. Shaughnessy, A., **Wen, T.**, Niu, X. and Brantley, S.L., 2019. Three Principles to Use in Streamlining Water Quality Research through Data Uniformity. _Environmental Science & Technology_. [[download pdf]](/files/Shaughnessy_2019_EST.pdf){:target="_blank"}
 
