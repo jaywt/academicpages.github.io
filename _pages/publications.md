@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?authuser=2&user=19-LjXsAAAAJ){:target="_blank"} webpage.
+You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){:target="_blank"} webpage.
 
 ## Journal Articles
 
