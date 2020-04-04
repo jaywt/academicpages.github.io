@@ -127,28 +127,13 @@
                      '#f7f7f7';
   }
 
-  function highlightFeature(e) {
-    var layer = e.target;
+  var highlight = {
+        'fillColor': 'yellow',
+        'weight': 2,
+        'opacity': 1
+  };
 
-    layer.setStyle({
-        weight: 5,
-        color: '#666',
-        dashArray: '',
-        fillOpacity: 0.7
-    });
-
-    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront();
-    }
-  }
-
-  function resetHighlight(e) {
-    geojson.resetStyle(e.target);
-  }
-
-
-
-  function popUp(f){
+  function popUp(f,l){
     var out = [];
     if (f.properties){
         for(key in f.properties){
@@ -156,17 +141,15 @@
         }
         l.bindPopup(out.join("<br />"));
     }
+
+    layer.on("click", function (e) {
+                geojson.setStyle(style); //resets layer colors
+                layer.setStyle(highlight);  //highlights selected.
+            });
   }
 
-  function onEachFeature(feature, layer) {
-    layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
-        click: popUp
-    });
-  }
 
-  var geojson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style, onEachFeature: onEachFeature});
+  var geojson = new L.GeoJSON.AJAX("PA_MI_NY_latest_confirmed.geojson", {style: style, onEachFeature: popUp});
   geojson.addTo(map);
 
   var legend = L.control({position: 'bottomright'});
