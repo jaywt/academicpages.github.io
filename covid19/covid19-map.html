@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>leaflet-map-simple</title>
+  <title>COVID-19 Confirmed Cases PA Counties</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -9,15 +9,15 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
   crossorigin="anonymous"/>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.min.css" />
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.min.css" /> -->
 
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
   crossorigin="anonymous"></script>
   <!-- Load Omnivore plugin to convert CSV to GeoJSON format -->
   <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script> -->
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
 
   <!-- Position the map and title with Cascading Style Sheet (.css) -->
@@ -30,7 +30,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">COVID-19 Confirmed Cases in Pennsylvania by County</div>
+  <div id="map-title">COVID-19 Confirmed Cases PA Counties</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -40,7 +40,7 @@
   var map = L.map('map', {
     center: [40.8766, -77.8367], // EDIT latitude, longitude to re-center map
     // center: [41.77, -72.69],
-    zoom: 8,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    zoom: 7,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true
   });
 
@@ -60,13 +60,13 @@
   /* Carto light-gray basemap tiles with labels */
   var light = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
-  }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
+  }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
   /* Stamen colored terrain basemap tiles with labels */
   var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
     attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
-  }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
+  }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 
   /* Display a blue point marker with pop-up text */
@@ -86,7 +86,7 @@
   // controlLayers.addOverlay(customLayer, 'Markers from data.csv');
 
   /* map PA data */
-  function style(feature) {
+  function style(features) {
       return {
           fillColor: getColor(features.properties.confirmed_cases),
           weight: 2,
