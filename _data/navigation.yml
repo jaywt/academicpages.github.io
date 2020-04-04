@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "COVID-19 Map"
-    url: /covid-19/
+    url: /covid-19
 
   - title: "Facilities and Research"
     url: /facilities-research/
