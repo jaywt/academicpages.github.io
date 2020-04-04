@@ -9,17 +9,12 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
   crossorigin="anonymous"/>
-  <!-- Load timedimension plugin -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.min.css" />
 
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
   crossorigin="anonymous"></script>
   <!-- Load Omnivore plugin to convert CSV to GeoJSON format -->
   <!-- <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> -->
-  <!-- Load required scripts for timedimension plugin -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
   <!-- Load leaflet-ajax plugin -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
 
@@ -86,13 +81,13 @@
   /* Carto light-gray basemap tiles with labels */
   var light = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
-  }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
+  }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
   /* Stamen colored terrain basemap tiles with labels */
   var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
     attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
-  }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
+  }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 
   /* Display a blue point marker with pop-up text */
@@ -112,32 +107,6 @@
   // controlLayers.addOverlay(customLayer, 'Markers from data.csv');
 
   /* map PA data */
-
-  var timeDimension = new L.TimeDimension({
-        period: "P1D",
-    });
-  map.timeDimension = timeDimension;
-
-  var player = new L.TimeDimension.Player({
-    transitionTime: 100,
-    loop: false,
-    startOver:true
-  }, timeDimension);
-
-  var timeDimensionControlOptions = {
-    player:        player,
-    timeDimension: timeDimension,
-    position:      'bottomleft',
-    autoPlay:      true,
-    minSpeed:      1,
-    speedStep:     1,
-    maxSpeed:      15,
-    timeSliderDragUpdate: true
-  };
-
-  var timeDimensionControl = new L.Control.TimeDimension(timeDimensionControlOptions);
-  map.addControl(timeDimensionControl);
-
   function style(features) {
       return {
           fillColor: getColor(features.properties.confirmed_cases),
@@ -168,17 +137,8 @@
     }
   }
 
-  // var examplejson = new L.GeoJSON.AJAX("http://www-personal.umich.edu/~jaywen/PA_county_twodayscases.geojson", {style: style, onEachFeature: popUp});
-  // examplejson.addTo(map);
-
-  var examplejson = new L.GeoJSON.AJAX("https://covid-19-data-counties.s3.us-east-2.amazonaws.com/PA_county_0402cases.geojson", {style: style, onEachFeature: popUp});
-  examplejson.addTo(map);
-
-  // timeSeriesLayer = new L.GeoJSON.AJAX("http://www-personal.umich.edu/~jaywen/PA_county_0402cases.geojson", {style: style, onEachFeature: popUp});
-  //
-  // var geojson = L.timeDimension.layer.geoJson(timeSeriesLayer);
-  //
-  // geojson.addTo(map);
+  var geojson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style, onEachFeature: popUp, local: true});
+  geojson.addTo(map);
 
   var legend = L.control({position: 'bottomright'});
 
