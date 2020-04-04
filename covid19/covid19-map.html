@@ -107,10 +107,8 @@
 
 
 
-  var timeSeriesGeoJSON = new L.GeoJSON.AJAX("PA_county_0402cases.geojson")
-  timeSeriesGeoJSON.on('data:loaded', function(){
-    geojson.addTo(map);
-  });
+  var examplejson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson");
+  examplejson.addTo(map);
   //L.geoJson(statesData, {style: style}).addTo(map);
 
   </script>
