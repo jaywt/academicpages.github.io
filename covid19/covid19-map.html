@@ -133,13 +133,13 @@
         'opacity': 1
   };
 
-  function popUp(f,l){
+  function popUp(feature,layer){
     var out = [];
-    if (f.properties){
-        for(key in f.properties){
-            out.push(key+": "+f.properties[key]);
+    if (feature.properties){
+        for(key in feature.properties){
+            out.push(key+": "+feature.properties[key]);
         }
-        l.bindPopup(out.join("<br />"));
+        layer.bindPopup(out.join("<br />"));
     }
 
     layer.on("click", function (e) {
