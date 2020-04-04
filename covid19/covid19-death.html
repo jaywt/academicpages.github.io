@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Latest COVID-19 Confirmed Cases by County</title>
+  <title>Latest COVID-19 Death Cases by County</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -51,7 +51,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Latest COVID-19 Confirmed Cases by County</div>
+  <div id="map-title">Latest COVID-19 Death Cases by County</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -106,10 +106,10 @@
   // }).addTo(map);
   // controlLayers.addOverlay(customLayer, 'Markers from data.csv');
 
-  /* map confirmed case data */
+  /* map death data */
   function style(features) {
       return {
-          fillColor: getColor(features.properties.confirmed_cases),
+          fillColor: getColor(features.properties.deaths),
           weight: 2,
           opacity: 1,
           color: 'white',
@@ -119,10 +119,10 @@
   }
 
   function getColor(d) {
-    return d > 500 ? '#993404' :
-           d > 100 ? '#e6550d' :
-           d > 20  ? '#fd8d3c' :
-           d > 5   ? '#fdbe85' :
+    return d > 50  ? '#993404' :
+           d > 10  ? '#e6550d' :
+           d > 5   ? '#fd8d3c' :
+           d > 1   ? '#fdbe85' :
            d > 0   ? '#feedde' :
                      '#f7f7f7';
   }
@@ -138,7 +138,7 @@
   }
 
 
-  var geojson = new L.GeoJSON.AJAX("PA_MI_NY_latest_confirmed.geojson", {style: style, onEachFeature: popUp});
+  var geojson = new L.GeoJSON.AJAX("PA_MI_NY_latest_death.geojson", {style: style, onEachFeature: popUp});
   geojson.addTo(map);
 
   var legend = L.control({position: 'bottomright'});
@@ -146,7 +146,7 @@
   legend.onAdd = function (map) {
 
       var div = L.DomUtil.create('div', 'info legend'),
-          grades = [0, 5, 20, 100, 500],
+          grades = [0, 1, 5, 10, 50],
           labels = [];
 
       // loop through our density intervals and generate a label with a colored square for each interval
