@@ -15,7 +15,7 @@
   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
   crossorigin="anonymous"></script>
   <!-- Load Omnivore plugin to convert CSV to GeoJSON format -->
-  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+  <!-- <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> -->
   <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script> -->
   <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
@@ -98,14 +98,24 @@
   }
 
   function getColor(d) {
-    return d > 50 ? '#800026' :
-           d > 10 ? '#BD0026' :
-           d > 5  ? '#E31A1C' :
-           d > 0  ? '#FD8D3C' :
-                    '#FFEDA0';
+    return d > 100 ? '#e6550d' :
+           d > 20  ? '#fd8d3c' :
+           d > 5   ? '#fdbe85' :
+           d > 0   ? '#feedde' :
+                     '#f7f7f7';
   }
 
-  var examplejson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style});
+  function popUp(f,l){
+    var out = [];
+    if (f.properties){
+        for(key in f.properties){
+            out.push(key+": "+f.properties[key]);
+        }
+        l.bindPopup(out.join("<br />"));
+    }
+  }
+
+  var examplejson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style, onEachFeature: popUp});
   examplejson.addTo(map);
   //L.geoJson(statesData, {style: style}).addTo(map);
 
