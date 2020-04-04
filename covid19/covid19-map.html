@@ -137,7 +137,7 @@
     }
   }
 
-  var geojson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style, onEachFeature: popUp, local: true});
+  var geojson = new L.GeoJSON.AJAX("PA_county_0402cases.geojson", {style: style, onEachFeature: popUp});
   geojson.addTo(map);
 
   var legend = L.control({position: 'bottomright'});
