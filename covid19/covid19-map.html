@@ -6,14 +6,19 @@
   <meta charset="utf-8">
 
   <!-- Load Leaflet: instructions at http://leafletjs.com/download.html -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css"
-  integrity="sha384-Zh+y1U8o6/7ni8Mp8szvUfZjGeKKS10CGH3IlD6L1X+XwzYgQ1llOjw/Wslc0cma"
-  crossorigin="anonymous">
-  <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"
-  integrity="sha384-6rCYjRgWDEI2RlZxiVihj1WIZB/uvFiRCGpavTVgFrSPDL0Bk1AiqCW+mmv5h0LP"
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin="anonymous"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.min.css" />
+
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
   crossorigin="anonymous"></script>
   <!-- Load Omnivore plugin to convert CSV to GeoJSON format -->
   <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
 
   <!-- Position the map and title with Cascading Style Sheet (.css) -->
   <style>
@@ -79,6 +84,31 @@
    map.fitBounds(runLayer.getBounds());
   }).addTo(map);
   controlLayers.addOverlay(customLayer, 'Markers from data.csv');
+
+  function style(feature) {
+      return {
+          fillColor: getColor(feature.properties.confirmed_cases),
+          weight: 2,
+          opacity: 1,
+          color: 'white',
+          dashArray: '3',
+          fillOpacity: 0.7
+      };
+  }
+
+  function getColor(d) {
+    return d > 50 ? '#800026' :
+           d > 10 ? '#BD0026' :
+           d > 5  ? '#E31A1C' :
+           d > 0  ? '#FD8D3C' :
+                    '#FFEDA0';
+  }
+
+
+
+  var timeSeriesGeoJSON = new L.GeoJSON.AJAX("PA_county_0402cases.geojson")
+  L.geoJson(timeSeriesGeoJSON).addTo(map)
+  //L.geoJson(statesData, {style: style}).addTo(map);
 
   </script>
 </body>
