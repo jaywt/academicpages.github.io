@@ -127,12 +127,6 @@
                      '#f7f7f7';
   }
 
-  var highlight = {
-        'fillColor': 'yellow',
-        'weight': 2,
-        'opacity': 1
-  };
-
   function popUp(feature,layer){
     var out = [];
     if (feature.properties){
@@ -141,11 +135,6 @@
         }
         layer.bindPopup(out.join("<br />"));
     }
-
-    layer.on("click", function (e) {
-                geojson.setStyle(style); //resets layer colors
-                layer.setStyle(highlight);  //highlights selected.
-            });
   }
 
 
