@@ -148,7 +148,7 @@
 
 
 
-  function popUp(f,l){
+  function popUp(f){
     var out = [];
     if (f.properties){
         for(key in f.properties){
@@ -175,7 +175,7 @@
 
       var div = L.DomUtil.create('div', 'info legend'),
           grades = [0, 5, 20, 100, 500],
-          labels = ['Number of Confirmed Cases'];
+          labels = [];
 
       // loop through our density intervals and generate a label with a colored square for each interval
       for (var i = 0; i < grades.length; i++) {
