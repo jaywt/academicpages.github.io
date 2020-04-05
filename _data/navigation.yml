@@ -6,20 +6,20 @@ main:
   - title: "COVID-19 Map"
     url: /covid-19
 
-  - title: "Facilities and Research"
-    url: /facilities-research/
-
   - title: "Lab Group"
     url: /lab-group/
 
-  - title: "Opportunities"
-    url: /opportunities/
+  - title: "Facilities and Research"
+    url: /facilities-research/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Opportunities"
+    url: /opportunities/
 
   - title: "Science Blogs"
     url: /science-blogs/
