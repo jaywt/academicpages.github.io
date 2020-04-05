@@ -52,9 +52,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ## Chapters in Books
 
 {: reversed="reversed"}
-1. **Wen, T.**, Data Sharing. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 5pp. In Press. _Under review_.
-
-1. **Wen, T.**, Data Aggregation. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 5pp. In Press. _Under review_.
+1.  **Wen, T.**, 2020. Data Sharing. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 3pp. [[download pdf]](/files/Wen_2020_Data_Sharing.pdf){:target="_blank"}
+1.  **Wen, T.**, 2020. Data Aggregation. In: Schintler L., McNeely C. (eds) Encyclopedia of Big Data. Springer, Cham, Switzerland. 4pp. [[download pdf]](/files/Wen_2020_Data_Aggregation.pdf){:target="_blank"}
 
 ## Reports and Theses
 
