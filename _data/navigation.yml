@@ -1,15 +1,12 @@
 # main links links
 main:
-  - title: "Home"
-    url: /
-
   - title: "COVID-19 Map"
     url: /covid-19
 
   - title: "Lab Group"
     url: /lab-group/
 
-  - title: "Facilities and Research"
+  - title: "Research"
     url: /facilities-research/
 
   - title: "Teaching"
