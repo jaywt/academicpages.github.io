@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hydrogeochemistry And eNvironmental Data Sciences (HANDS) Research Group"
-excerpt: "Home"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /home/
