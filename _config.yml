@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wen Research Group @ Syracuse University"
+title                    : "Tao Wen"
 title_separator          : "-"
 name                     : &name "Tao Wen"
-description              : &description "Postdoctoral Scholar at Pennsylvania State University"
-url                      : https://jaywt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "hydrogeochemist and data scientist"
+url                      : https://jaywen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaywt.github.io"
+repository               : "jaywt/jaywt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dr. Tao Wen"
   avatar           : "portrait.jpg"
-  bio              : "Assistant Professor at Syracuse University"
+  bio              : "Assistant Professor at <a style='color: black;' href='https://thecollege.syr.edu/people/faculty/tao-wen/'>Syracuse University</a>"
   employer         :
   location         : "Syracuse, NY"
   googlescholar    : "https://scholar.google.com/citations?user=5jsj4tUAAAAJ"
