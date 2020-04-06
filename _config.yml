@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Tao Wen"
+  name             : "<a style='color: #f76900;'>Dr. Tao Wen</a>"
   avatar           : "portrait.jpg"
   bio              : "Assistant Professor at <a style='color: black;' href='https://thecollege.syr.edu/people/faculty/tao-wen/'>Syracuse University</a>"
   employer         :
