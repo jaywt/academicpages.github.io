@@ -12,9 +12,7 @@ This post will be dynamically updated probably in the next a couple of months as
   * This is probably the most popular webinar or online meeting tools supported by many universities.
 * Google Meet: [Link](https://meet.google.com/){:target="_blank"}
   * Free! Free! Free! and with enough functionality
-
 * Microsoft Teams: [Link](https://teamsdemo.office.com/){:target="_blank"}
-  * Free version of Adobe Premiere Pro
 
 ## Teaching sessions requiring only live streaming or broadcasting
 
@@ -25,3 +23,4 @@ This post will be dynamically updated probably in the next a couple of months as
 
 * Adobe Premiere Pro
 * OpenShot Video Editor: [Link](https://www.openshot.org/){:target="_blank"}
+  * Free version of Adobe Premiere Pro
