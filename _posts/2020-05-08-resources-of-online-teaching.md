@@ -1,6 +1,6 @@
 ---
 title: 'Compiled Resources for Online Teaching and Communication'
-date: 2018-06-19
+date: 2020-05-08
 permalink: /posts/2020/06/resources-of-online-teaching/
 ---
 
