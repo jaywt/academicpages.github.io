@@ -5,10 +5,11 @@ author_profile: true
 ---
 
 ## Graduate Students
-This page is under construction...
+| ![Favour Epuna](/images/labgroup/Favour_Epuna.jpg  "Favour Epuna") | **Favour Epuna — M.Sc. Student** |
+|:--|:--|
 
 ## Undergraduates
-This page is under construction...
+Currently recruiting. Please email me to learn more about opportunities in my research group.
 
 ## Lab Visitors
-This page is under construction...
+Please email me to learn more about opportunities in my research group.

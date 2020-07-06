@@ -10,7 +10,7 @@ I am currently recruiting both MS and PhD students to join my research group at 
 
 Interested students should check this **[departmental website](http://earthsciences.syr.edu/academics/g-program.html){:target="_blank"}** for the admission requirements of Syracuse University and Department of Earth Sciences.
 
-I strongly encourage prospective students to reach out to me by email to learn more about opportunities in my research group at Syracuse University. I will be at 2019 AGU Fall Meeting in San Francisco in December, during which I am happy to meet prospective students in person.
+I strongly encourage prospective students to reach out to me by email to learn more about opportunities in my research group at Syracuse University.
 
 ## Postdoctoral Opportunities
 

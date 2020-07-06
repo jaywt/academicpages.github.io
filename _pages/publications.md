@@ -13,7 +13,9 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
-1. Agarwal, A., **Wen, T.**, Xue, L., Chen, A., Herman, A. and Brantley, S.L., Geonet: An Automated Geochemical Network Analysis with Application to Detecting Stream Water Contamination. _In preparation_.
+1. Agarwal, A., **Wen, T.**, Chen, A., Zhang, A.Y., Niu, X., Zhan, X., Xue, L., Brantley, S.L., 2020. Assessing Contamination of Stream Networks Near Shale Gas Development Using a New Geospatial Tool. _Environmental Science & Technology_. [[download pdf]](/files/Agarwal_Wen_2020_EST.pdf){:target="_blank"}
+
+1. Woda, J., **Wen, T.**, Lemon, J., Marcon, V., Keeports, C.M., Zelt, F., Steffy, L.Y. and Brantley, S.L., 2020. Methane concentrations in streams reveal gas leak discharges in regions of oil, gas, and coal development. _Science of The Total Environment_. [[download pdf]](/files/Woda_2020_STOTEN.pdf){:target="_blank"}
 
 1. Hammond, P.A., **Wen, T.**, Brantley, S.L. and Engelder, T., 2020. Gas well integrity and methane migration: evaluation of published evidence during shale-gas development in the USA. _Hydrogeology Journal_. [[download pdf]](/files/Hammond_2020_Hydrogeology.pdf){:target="_blank"}
 
@@ -66,9 +68,13 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
 
-## Preprints
+## Preprints and Postprints
 
 {: reversed="reversed"}
+1. Agarwal, A., **Wen, T.**, Chen, A., Zhang, A.Y., Niu, X., Zhan, X., Xue, L., Brantley, S.L., 2020. Assessing Contamination of Stream Networks Near Shale Gas Development Using a New Geospatial Tool. EarthArXiv. https://doi.org/10.31223/osf.io/qka7d. [[download pdf]](/files/Agarwal_Wen_2020_EarthArXiv.pdf){:target="_blank"}
+
+1. Woda, J., **Wen, T.**, Lemon, J., Marcon, V., Keeports, C.M., Zelt, F., Steffy, L.Y. and Brantley, S.L., 2020. Methane concentrations in streams reveal gas leak discharges in regions of oil, gas, and coal development. EarthArXiv. https://doi.org/10.31223/osf.io/qka7d. [[download pdf]](/files/Woda_2020_EarthArXiv.pdf){:target="_blank"}
+
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., 2019. Targeted Source Detection for Environmental Data. arXiv preprint arXiv:1908.11056. [[download pdf]](/files/Zheng_2019_arXiv.pdf){:target="_blank"}
 
 ## Open Access Datasets
