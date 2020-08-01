@@ -1,2 +1,5 @@
+# Specific folders
 _site/
 
+# MacOS
+.DS_Store
