@@ -7,7 +7,7 @@ author_profile: true
 ## Syracuse University
 ### EAR 205 – Water and Our Environment: Spring 2021
 * The origins, unique properties, quality and quantity, and relationship to the water cycle.  This multidisciplinary offering will also include the intersections of water with human and ecological resources as well as global sustainability of water in the future.
-<div align="center"><i>This class is partly supported by <a href="https://www.datacamp.com/">DataCamp</a>, the most intuitive platform for learning R, Python, SQL, and more. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge on topics such as importing data, data visualization, and machine learning.</i></div>
+<p align="center"><i>This class is partly supported by <a href="https://www.datacamp.com/" target="_blank">DataCamp</a>, the most intuitive platform for learning R, Python, SQL, and more. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge on topics such as importing data, data visualization, and machine learning.</i></p>
 <p align="center">
   <img src="/images/datacamp.png" width="250" height="52">
 </p>
