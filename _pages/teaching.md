@@ -7,9 +7,9 @@ author_profile: true
 ## Syracuse University
 ### EAR 205 – Water and Our Environment: Spring 2021
 * The origins, unique properties, quality and quantity, and relationship to the water cycle.  This multidisciplinary offering will also include the intersections of water with human and ecological resources as well as global sustainability of water in the future.
-<div align="center">This class is partly supported by [DataCamp](https://www.datacamp.com/), the most intuitive platform for learning R, Python, SQL, and more. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge. DataCamp offers 350+ courses by expert instructors on topics such as importing data, data visualization, and machine learning.</div>
+<div align="center"><i>This class is partly supported by <a href="https://www.datacamp.com/">DataCamp</a>, the most intuitive platform for learning R, Python, SQL, and more. DataCamp’s learn-by-doing methodology combines short expert videos and hands-on-the-keyboard exercises to help learners retain knowledge on topics such as importing data, data visualization, and machine learning.</i></div>
 <p align="center">
-  <img src="/images/datacamp.png"/>
+  <img src="/images/datacamp.png" width="250" height="52">
 </p>
 
 
@@ -25,7 +25,7 @@ author_profile: true
 * Basics of isotope geochemistry
 * Applied Data-driven models to assess the impact of natural and anthropogenic features on weathering rate on a watershed scale
 
-## University of Michigan (2013 – 2016)
+## University of Michigan
 ### EARTH 477 – Hydrogeology: 2013 – 2016
 * Guided 50+ students to understand the fate and transport of contaminants from Underground Storage Tanks via hands-on hydrogeological lab work and the interpretation of stratigraphic information
 
