@@ -4,14 +4,14 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-## Student Opportunities
+## Graduate Students
 
-I am currently recruiting both MS and PhD students to join my research group at [Syracuse University](http://thecollege.syr.edu/people/faculty/pages/ear/Wen-Tao.html){:target="_blank"}, located in Syracuse, New York. My group uses noble gas, hydrogeochemistry, and data science tools to study water cycle in the coupled natural and human systems over a broad range of temporal and spatial scales. Field geology, state-of-the-art geochemical analyses, as well as emerging data mining (big data) tools will be blended in our work. Students in my group will have the opportunities to incorporate one or more of these elements in their projects.
+Students interested in graduate study are encouraged to contact Prof. Wen before applying to further inquire about the opportunities available. Please include a brief description of any prior research activities (note: prior research experience is not required for admission!) and your current research and educational interests. Interested students can check this **[departmental website](http://earthsciences.syr.edu/academics/g-program.html){:target="_blank"}** for the admission requirements.
 
-Interested students should check this **[departmental website](http://earthsciences.syr.edu/academics/g-program.html){:target="_blank"}** for the admission requirements of Syracuse University and Department of Earth Sciences.
+## Undergraduate Students
 
-I strongly encourage prospective students to reach out to me by email to learn more about opportunities in my research group at Syracuse University.
+Students interested in conducting research in the **Hydrogeochemistry And eNvironmental Data Sciences (HANDS)** group should contact Prof. Wen.
 
-## Postdoctoral Opportunities
+## Postdoctorals
 
 To be announced...
