@@ -1,6 +1,6 @@
 ---
 title: 'Fracking: health claims unproven so far'
-date: 2018-06-19
+date: 2021-01-11
 permalink: /posts/2021/01/health-claims-unproven-so-far-ngw/
 ---
 
