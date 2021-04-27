@@ -13,6 +13,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
+1. Niu, X., **Wen, T.** and Brantley, S.L., 2021. Exploring the trend of stream sulfate concentrations as U.S. power plants shift from coal to shale gas. _Environmental Pollution_. [[download pdf]](/files/Niu_2021_Environmental_Pollution.pdf){:target="_blank"}
+
 1. Agarwal, A., **Wen, T.**, Chen, A., Zhang, A.Y., Niu, X., Zhan, X., Xue, L., Brantley, S.L., 2020. Assessing Contamination of Stream Networks Near Shale Gas Development Using a New Geospatial Tool. _Environmental Science & Technology_. [[download pdf]](/files/Agarwal_Wen_2020_EST.pdf){:target="_blank"}
 
 1. Woda, J., **Wen, T.**, Lemon, J., Marcon, V., Keeports, C.M., Zelt, F., Steffy, L.Y. and Brantley, S.L., 2020. Methane concentrations in streams reveal gas leak discharges in regions of oil, gas, and coal development. _Science of The Total Environment_. [[download pdf]](/files/Woda_2020_STOTEN.pdf){:target="_blank"}
