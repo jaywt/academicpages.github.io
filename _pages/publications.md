@@ -9,9 +9,9 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ## Journal Articles
 
 {: reversed="reversed"}
-1. **Wen, T.**, Liu, M., Zheng, G., Li, Z. and Brantley, S.L., Applying Machine Learning to Predict Missing Methane Data and Detect Anomalous Methane in Groundwater. _In preparation_.
-
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
+
+1. **Wen, T.**, Liu, M., Woda, J., Zheng, G. and Brantley, S.L., Detecting anomalous methane in groundwater within hydrocarbon production areas across the United States. _Water Research_. [[download pdf]](/files/Wen_2021_WR.pdf){:target="_blank"}
 
 1. Niu, X., **Wen, T.** and Brantley, S.L., 2021. Exploring the trend of stream sulfate concentrations as U.S. power plants shift from coal to shale gas. _Environmental Pollution_. [[download pdf]](/files/Niu_2021_Environmental_Pollution.pdf){:target="_blank"}
 
