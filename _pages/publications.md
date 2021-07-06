@@ -11,6 +11,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 {: reversed="reversed"}
 1. Zheng, G., Liu, M., **Wen, T.**, Wang, H., Yao, H., Brantley, S.L. and Li, Z., Targeted Source Detection for Environmental Data. _Under review_.
 
+Liu, R., **Wen, T.**, Amalberti, J., Zheng, J., Hao, F. and Jiang D., 2021. The Dichotomy in Noble Gas Signatures Linked to Tectonic Deformation in Wufeng-Longmaxi Shale, Sichuan Basin. _Chemical Geology_. [[download pdf]](/files/Liu_2021_Chemical_Geology.pdf){:target="_blank"}
+
 1. Shaughnessy, A., Gu, X., **Wen, T.** and Brantley, S.L., 2021. Machine Learning Deciphers CO2 Sequestration and Subsurface Flowpaths from Stream Chemistry. _Hydrology and Earth System Sciences_. [[download pdf]](/files/Shaughnessy_2021_HESS.pdf){:target="_blank"}
 
 1. **Wen, T.**, Liu, M., Woda, J., Zheng, G. and Brantley, S.L., 2021. Detecting anomalous methane in groundwater within hydrocarbon production areas across the United States. _Water Research_. [[download pdf]](/files/Wen_2021_WR.pdf){:target="_blank"}
